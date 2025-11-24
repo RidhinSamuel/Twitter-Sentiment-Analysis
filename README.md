@@ -118,4 +118,3 @@ print(predict_sentiment("I love this product"))
 
 ---
 
-Would you like this as a complete `.ipynb` notebook or Python script? Also, I can guide you on visualizing results or building a web app with this model using Flask or Streamlit.
