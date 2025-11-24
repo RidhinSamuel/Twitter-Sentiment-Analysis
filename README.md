@@ -1,8 +1,4 @@
 ## Dataset
-The dataset is [Sentiment140 dataset with 1.6 million tweets](https://www.kaggle.com/datasets/kazanova/sentiment140?resource=download)
-
-Perfect, Ridhin! You've got a classic **Sentiment140** dataset — widely used for training sentiment analysis models. Here's a **step-by-step guide** to build your project from start to finish using that dataset.
-
 ---
 
 ## 🔧 Step-by-Step Sentiment Analysis Project (on 1.6M Tweets)
